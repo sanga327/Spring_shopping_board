@@ -9,7 +9,7 @@
   - STS 3.9.9
   - Java SE 8 U21
   - Apache Tomcat 8.5
-  - Oracle DB & MySQL
+  - MySQL
   - MyBatis
 
 ---
