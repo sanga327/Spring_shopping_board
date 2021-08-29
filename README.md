@@ -23,7 +23,7 @@
   - [1. 페이지 생성 - 메인, 로그인, 회원가입](https://github.com/sanga327/Spring_shopping_board/blob/main/document/1.%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%83%9D%EC%84%B1%20-%20%EB%A9%94%EC%9D%B8%2C%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%2C%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.md)
   - [2. 회원가입 기능 구현](https://github.com/sanga327/Spring_shopping_board/blob/main/document/2.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84.md)
   - [3. 아이디 중복 검사 기능](https://github.com/sanga327/Spring_shopping_board/blob/main/document/3.%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%A4%91%EB%B3%B5%20%EA%B2%80%EC%82%AC%20%EA%B8%B0%EB%8A%A5.md)
-  - [4. 인증번호 ](https://github.com/sanga327/Spring_shopping_board/blob/main/document/4.%20%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EC%A0%84%EC%86%A1.md)
+  - [4. 인증번호 이메일 전송](https://github.com/sanga327/Spring_shopping_board/blob/main/document/4.%20%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EC%A0%84%EC%86%A1.md)
 
 
 <br>
